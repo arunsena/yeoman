@@ -1,0 +1,2 @@
+# yeoman
+Sample yeoman app
